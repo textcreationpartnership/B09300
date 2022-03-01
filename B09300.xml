@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lord Lieutenant and Council. Ormonde. Whereas, by the direction from us the Lord Lieutenant, several fire-arms have been lately siezed upon, in which our direction, there was an exception of the fire-arms belonging to archbishops, bishops, peers of the realm, privy councellours, His Majesties judges, and officers and souldiers, members of His Majesties army; ...</title>
+            <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09300</idno>
+            <idno type="OCLC"> 80922950</idno>
+            <idno type="STC">Wing I758</idno>
+            <idno type="STC">ESTC R178776</idno>
+            <idno type="EEBO-CITATION">80922950</idno>
+            <idno type="OCLC">ocm 80922950</idno>
+            <idno type="VID">191901</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191901)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2895:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lord Lieutenant and Council. Ormonde. Whereas, by the direction from us the Lord Lieutenant, several fire-arms have been lately siezed upon, in which our direction, there was an exception of the fire-arms belonging to archbishops, bishops, peers of the realm, privy councellours, His Majesties judges, and officers and souldiers, members of His Majesties army; ...</title>
+                  <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+                  <author>Ireland. Parliament.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Crooke ... and are to be sold by Samuel Dancer ...,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at the council chamber in Dublin the fifth day of August, 1663."</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Firearms --  Law and legislation --  Early works to 1800.</term>
+               <term>Ireland --  Politics and government --  17th century --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1775 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="resolution">
+            <pb facs="tcp:191901:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <figDesc>royal English blazon or coat of arms</figDesc>
+               </figure> By the Lord Lieutenant and Council.</head>
+            <opener>
+               <signed>ORMONDE.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>hereas, by the direction from Us the Lord Lieutenant,
+ſeve<g ref="char:EOLhyphen"/>ral Fire-Arms have been lately ſeized upon, in which our direction,
+there was an exception of the Fire-arms belonging to Archviſhops, Biſhops,
+Peers of the Realm, Priby Councellours, his Majeſties Judges, and Officers
+and Souldiers, Members of his Majeſties Army: And whereas the end of
+ſeizing the ſaid Armes was only, as to remove Armes out of the hands of
+perſons, who upon occaſion might make ill uſe of them, to the
+diſturvance of the Publick Peace, ſo to preſcrive a courſe for placing
+Arms in the hands of Perſons known to ve well affected to his Majeſties
+Government, and to the Peace of the Kingdom: We therefore have reſolved at
+this Board, that in the reſtitution of the ſaid fire-arms, theſe rules be
+obſerved.</p>
+            <p>Firſt, That every perſon to whom any of the ſaid Arms
+ſhall be reſtored, ſhall before ſuch re<g ref="char:EOLhyphen"/>ſtitution made to him produce
+to the perſon or perſons reſtoring the ſaid Armes a Certificate under
+the hand of the Lord Archviſhop or Biſhop of the Dioceſs wherein ſuch
+Perſon reſides, and that grounded upon Certificate to be made to the ſaid
+Lord Archviſhop or Biſhop under the hand and Scal of the lawful Miniſter
+of the Pariſh wherein ſuch Perſon reſides as a<g ref="char:EOLhyphen"/>foreſaid, or ſome
+other lawful Miniſter within the Dioceſs that ſuch Perſon did within
+ſix moneths laſt paſt before reſtitution of the ſaid Armes, receive
+the bleſſed Sacrament of the Communion, according to the form preſcribed
+by the Church of Ireland.</p>
+            <p>Secondly, That as to every other perſon that ſhall deſire
+reſtitution of his Arms, upon ap<g ref="char:EOLhyphen"/>plication made by ſuch Perſon to us the
+Lord Lieutenant ſuch order ſhall be given therein, as we ſhall find the
+caſe to require.</p>
+            <p>And the Lords Preſidents of the ſeveral Provinces of
+Munſter and Connaght, or in their or any of their abſence, the
+Vice-Preſidents of the ſaid reſpective Provinces, and the reſpective
+Gover<g ref="char:EOLhyphen"/>nors of the ſeveral Counties in Leinſter and Ulſter, where
+particular Governors are, and in ſuch Counties in Leinſter or Ulſter
+where no particular Governors are, the reſpective perſons who were employed
+in the ſeizing of the ſaid Armes, or any two, or more of them upon
+application made unto them, by the perſon or perſons, whoſe names have
+been taken from them as aforeſaid, are to give <pb facs="tcp:191901:2" rendition="simple:additions"/>
+               <pb facs="tcp:191901:3"/>
+order for reſtitution of the ſaid Armes, obſerving therein
+the ſaid rules herein formerly preſcribed, And whereas we are informed,
+That ſeveral perſons, (not excepted in the ſaid general directions of Us
+the Lord Lieutenant for ſeizing the ſaid Armes as aforeſaid) ha be
+concealed their Armes, and not delivered them up to the perſons entruſted
+by Us the Lord Lieutenant in that behalf, We do hereby Order, that in caſe
+any ſuch perſon or perſons ſhall not before the tenth day of September
+next produce the ſaid Armes ſo concealed and not delivered up as
+aforeſaid, that is to ſay, in the Probintes of Munſter and Connaght to
+the ſaid reſpectibe Preſidents or Vice-Preſi<g ref="char:EOLhyphen"/>dents, and in the
+ſeveral Counties in Leinſter and Ulſter, Where particular Governors are,
+to ſuch reſpective Governors, and in ſuch Counties in Leinſter and
+Ulſter where no particular Go<g ref="char:EOLhyphen"/>vernors are to the ſaid perſons formerly
+entruſted to ſeize the ſame, or to any two or more of them, then upon
+ſuch failer, all ſuch Armes ſo concealed and after the ſaid tenth day
+of September next to be found, are to be ſeized on (viz.) by direction of the
+ſaid reſpective Preſidents, and Vice-Preſi<g ref="char:EOLhyphen"/>dents in the ſaid Province
+of Munſter and Connaght, and as to the other parts of the Realm by the
+perſons formerly entruſted to ſeize the ſame or any of them, and to
+cauſe the ſaid Armes to be put into His Majeſties next adjoyning
+ſtores, where they are to remain and not to be delivered out without
+ſpecial and particular direction from Us the Lord Lieutenant in that behalf.
+And we hereby pray and require the ſaid Lords Preſidents and
+Vice-Preſidents of the ſaid Provinces, and the other perſons hereby
+appointed for reſtoring the ſaid Armes as aforeſaid reſpectively to
+cauſe exact Liſts to be made containing the Names of the Perſons to whom
+the ſaid Armes ſhall be reſtored, the places of their Reſidence, and
+the Number and Quality of the Armes ſo reſtored, to every of them, and to
+return unto Us the Lord Lieutenant, Duplicats of the ſaid Liſt under their
+reſpective hands with all convenient ſpeed.</p>
+            <closer>
+               <dateline>Given at the Council Chamber in <hi>Dublin</hi>
+                  <date>the Fifth day of <hi>Auguſt,</hi> 1663.</date>
+               </dateline>
+GOD Save the KING.
+<signed>
+                  <list>
+                     <item>Mau. Euſtace, Canc.</item>
+                     <item>Ja. Dublin,</item>
+                     <item>Oſſory,</item>
+                     <item>Kildare,</item>
+                     <item>Shannon,</item>
+                     <item>Dungannon,</item>
+                     <item>Hen. Midenſis,</item>
+                     <item>Mich. Cork,</item>
+                     <item>W. Caulfield,</item>
+                     <item>Kingſton,</item>
+                     <item>J. Temple,</item>
+                     <item>Mau. Berkeley,</item>
+                     <item>Robert Forth,</item>
+                     <item>Ja. Ware,</item>
+                     <item>Theo. Jones.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <head>DUBLIN,</head>
+            <p>Printed by <hi>John Crooke,</hi> Printer to the Kings moſt
+Excellent MAJESTY; and are to be ſold by <hi>Samuel Dancer</hi> next door to
+the Bear and Ragged-ſtaffe in <hi>Caſtleſtreet,</hi> 1663.</p>
+            <pb facs="tcp:191901:4" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
